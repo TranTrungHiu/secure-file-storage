@@ -1,7 +1,3 @@
-Here’s a draft for the `README.md` file for your repository, `secure-file-storage`:
-
----
-
 # Secure File Storage
 
 A secure file storage application built entirely in Java, designed to provide encryption and privacy for sensitive files.
